@@ -1,0 +1,4 @@
+This is the source code for building a recommendation system for social network data
+based on map reduce framework using Jaccard Coefficient and Cosine Similarity.
+
+The precision of this recommendation system reaches up to 41.6%.
